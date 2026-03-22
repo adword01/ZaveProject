@@ -68,8 +68,5 @@ com.assignment.zaveproject
 ## 📸 Screenshots
    
    Present in Screenshots Folder
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Limitation
+   - Due to issue in billing account, Places API is not working and shows REQUEST_DENIED so I have added a local list for the stores to showcase the flow of working.
