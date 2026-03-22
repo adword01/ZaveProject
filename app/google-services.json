@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "627283455504",
+    "project_id": "zaveproject",
+    "storage_bucket": "zaveproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627283455504:android:cbd4d29beaf02b0de3e495",
+        "android_client_info": {
+          "package_name": "com.assignment.zaveproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627283455504-9svk55paqt7btrljvmekb8q6avvptkt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assignment.zaveproject",
+            "certificate_hash": "ed71e1fba0d20c77ca14127be20e0a0df120bdf3"
+          }
+        },
+        {
+          "client_id": "627283455504-4fhka01kvra8cl231mh4gtprfktv5si3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDIFDDJKVi8w5fbotUZ4sFsGfn0_QovQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627283455504-4fhka01kvra8cl231mh4gtprfktv5si3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
